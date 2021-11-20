@@ -1,0 +1,11 @@
+[
+{
+    "model": "airline.airplane",
+    "pk": 1,
+    "fields": {
+        "liters": 200,
+        "airplane_id": 2,
+        "passengers": 10
+    }
+}
+]
